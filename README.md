@@ -6,9 +6,9 @@ The framework comes with a powerful feature set including [nested slides](https:
 
 ---
 
-Code blocks in index.html references code template done up by my teammate @mtanco at H2O.ai
+Code blocks in index.html references code template done up by my teammate:- [@mtanco] (https://www.github.com/mtanco) at H2O.ai
 
 --- 
 <div align="center">
-  MIT licensed | Copyright © 2011-2024 Hakim El Hattab, https://hakim.se
+  MIT licensed | Copyright © 2011-2024 
 </div>
