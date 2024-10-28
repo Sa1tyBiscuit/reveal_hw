@@ -1,2 +1,6 @@
-# reveal_hw
-i just want to deploy reveal slides on gh pagessssss
+# Wave Tutorial
+
+
+This serves as the repo for wave tutorial.
+
+Credits to reveal.js for the beautiful UI/UX!
